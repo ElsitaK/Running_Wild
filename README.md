@@ -8,7 +8,7 @@ More information on GAP here: https://medium.com/strava-engineering/an-improved-
 
 # Files
 Files include 3 scripts and one sample gpx file
-- "RunScript.Sept2020.R": script for use within the webpage, uses the trackeR package to process gpx/ tpx files
+- "RunScript.Sept2020.R": script for use within the webpage, uses the trackeR package to process gpx/ tmx files
   - input is a user-submitted gpx or tmx file and a specified run distance (5K, 10K, or 15K) 
   - outputs a normalized pace (m/s), the actual pace (m/s), and the absolute elevational change in meters
 
