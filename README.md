@@ -14,4 +14,4 @@ Files include 3 scripts and one sample gpx file
 
 - "RunScriptWithViz.draft2.R": includes the above, and also includes a visualization of the polynomial formula used to relate gradient to adjusted pace and additional race graphs (eg distance versus altitude) created using ggplot2
 
-- "5kRun.draft1.py": similar to above but in python, uses the geopy package to calculate geodesic distance from lat/long coordinates and also includes additional race graphs (eg map of the race route created from lat/long coordinates)
+- "5kRun.draft1.py": similar to above but in python, uses the geopy package to calculate geodesic distance from lat/long coordinates and also includes additional race graphs (eg map of the race route created from lat/long coordinates) created using matplotlib
