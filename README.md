@@ -3,7 +3,7 @@ Data manipulation and analysis for "Running Wild" virtual race, fundraiser for P
 https://run.piedmontwildlifecenter.org/
 
 # The Problem
-As it is a virtual race, competitors submit individual race routes that are tracked using smartphone apps such as Strava. However, we needed a way to compare the different race routes which inevitably had differences in steepness (gradient). The code shows calculation of a Grade Adjusted Pace (GAP) - that is the speed adjusted to account for the different gradients in each individual race, in order to make the race as fair as possible given the differences in routes. 
+As it is a virtual race, competitors submit individual race routes that are tracked using smartphone apps such as Strava. However, we needed a way to compare the different race routes which inevitably had differences in steepness (gradient). The code shows calculation of a Grade Adjusted Pace (GAP) - that is the speed adjusted to account for the different gradients in each individual race, in order to make the race as fair as possible given the differences in routes. The graph below shows the function used to adjust the pace given the gradient which was calculated from lat/long coordinates and elevation over each time point recorded by the app. 
 
 ![StravaPolynomial](https://github.com/ElsitaK/Running_Wild/blob/master/StravaRegression.png)
 
