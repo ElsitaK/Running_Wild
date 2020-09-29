@@ -4,6 +4,9 @@ https://run.piedmontwildlifecenter.org/
 
 # The Problem
 As it is a virtual race, competitors submit individual race routes that are tracked using smartphone apps such as Strava. However, we needed a way to compare the different race routes which inevitably had differences in steepness (gradient). The code shows calculation of a Grade Adjusted Pace (GAP) - that is the speed adjusted to account for the different gradients in each individual race, in order to make the race as fair as possible given the differences in routes. 
+
+![StravaPolynomial](https://github.com/ElsitaK/Running_Wild/blob/master/StravaRegression.png)
+
 More information on GAP here: https://medium.com/strava-engineering/an-improved-gap-model-8b07ae8886c3   
 
 # Files
