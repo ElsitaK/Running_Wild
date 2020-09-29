@@ -17,15 +17,15 @@ getAdjustedPace <- function(FILEPATH, DISTANCE){
     return(string)
   } 
   
-  # #check date of submission
-  # timestamp = runDF$time[1]
-  # datetime = ymd_hms(timestamp) 
-  # start_datetime = ymd_hms("2020_10_11 00:00:00")
-  # end_datetime = ymd_hms("2020_10_18 23:59:59")
-  # if (datetime < start_datetime | datetime > end_datetime){
-  #   string = paste("FALSE", "SUBMISSION FROM OUTSIDE RACE TIME WINDOW", sep =",")
-  #   return(string)
-  # }
+  #check date of submission
+  timestamp = runDF$time[1]
+  datetime = ymd_hms(timestamp) 
+  start_datetime = ymd_hms("2020_10_11 00:00:00")
+  end_datetime = ymd_hms("2020_10_18 23:59:59")
+  if (datetime < start_datetime | datetime > end_datetime){
+    string = paste("FALSE", "SUBMISSION FROM OUTSIDE RACE TIME WINDOW", sep =",")
+    return(string)
+  }
   
   # calculate point-to-point distance using the cumulative distance (distance)
   runDF$dist_point <- c(0,diff(runDF$distance, lag=1)) 
