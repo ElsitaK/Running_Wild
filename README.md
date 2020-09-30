@@ -13,7 +13,7 @@ More information on GAP here: https://medium.com/strava-engineering/an-improved-
 Files include 3 scripts and one sample gpx file
 - "RunScript.Sept2020.R": script for use within the webpage, uses the trackeR package to process gpx/ tcx files
   - input is a user-submitted gpx or tcx file and a specified run distance (5K, 10K, or 15K) 
-  - outputs a grade adjusted pace (m/s), the actual pace (m/s), the absolute elevational change in meters, the grade adjusted race time (minutes), the actual race time (minutes), latitude coordinates, and longitude coordinates from the start point for future viz
+  - outputs a grade adjusted pace (m/s), the actual pace (m/s), the absolute elevational change in meters, the grade adjusted race time (minutes), the actual race time (minutes), as well as latitude coordinates, longitude coordinates, and the date/time from the start point for future viz
 
 - "RunScriptWithViz.draft2.R": includes the above, and also includes a visualization of the polynomial formula used to relate gradient to adjusted pace and additional race graphs (eg distance versus altitude) created using ggplot2
 
