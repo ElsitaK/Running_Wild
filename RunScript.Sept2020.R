@@ -73,13 +73,13 @@ getAdjustedPace <- function(FILEPATH, DISTANCE){
   
   #check if distance is too short
   #and if not, cut data to correct distance 
-  if (is.infinite(min(which(runDF$distance > distanceKM)))){
+  if (is.infinite(min(which(runDF$distance > distanceM)))){
     string = paste("FALSE", "RUN DISTANCE TOO SHORT", sep=",")
     return(string)
   } else { 
     #cut dataframe to correct length 
     #(as close as possible)
-    lastRow = min(which(runDF$distance > distanceKM))
+    lastRow = min(which(runDF$distance > distanceM))
     runDF <- runDF[1:lastRow,]
   }
   
