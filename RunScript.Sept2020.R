@@ -37,7 +37,10 @@ getAdjustedPace <- function(FILEPATH, DISTANCE){
   #check for and eliminate gradients that are outside the range covered
   #by the Strava polynomial formula (and potential GPS glitches if extreme gradients)
   index_to_remove = which(runDF$grad_point > 40  | runDF$grad_point < -40)
-  runDF <- runDF[-index_to_remove,]
+  #handle only if there are values to remove
+  if (length(index_to_remove) > 0){
+    runDF <- runDF[-index_to_remove,]
+  }
   
   #if the above results in some rows being removed
   #the below code assumes that the gradient remains the same for the 
