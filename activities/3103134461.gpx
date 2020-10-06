@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2020-02-15T20:19:48Z</time>
+ </metadata>
+ <trk>
+  <name>Strava wtf</name>
+  <type>4</type>
+  <trkseg>
+   <trkpt lat="35.9547500" lon="-78.6130280">
+    <ele>82.1</ele>
+    <time>2020-02-15T20:19:48Z</time>
+   </trkpt>
+   <trkpt lat="35.9548180" lon="-78.6130130">
+    <ele>82.4</ele>
+    <time>2020-02-15T20:19:52Z</time>
+   </trkpt>
+   <trkpt lat="35.9548350" lon="-78.6130000">
+    <ele>82.5</ele>
+    <time>2020-02-15T20:19:53Z</time>
+   </trkpt>
+   <trkpt lat="35.9604410" lon="-78.6075110">
+    <ele>82.1</ele>
+    <time>2020-02-15T20:46:51Z</time>
+   </trkpt>
+   <trkpt lat="35.9604410" lon="-78.6075110">
+    <ele>81.5</ele>
+    <time>2020-02-15T20:46:51Z</time>
+   </trkpt>
+   <trkpt lat="35.9604140" lon="-78.6075080">
+    <ele>81.3</ele>
+    <time>2020-02-15T20:46:54Z</time>
+   </trkpt>
+   <trkpt lat="35.9581800" lon="-78.6125710">
+    <ele>92.1</ele>
+    <time>2020-02-15T22:03:28Z</time>
+   </trkpt>
+   <trkpt lat="35.9581800" lon="-78.6125710">
+    <ele>92.1</ele>
+    <time>2020-02-15T22:03:28Z</time>
+   </trkpt>
+   <trkpt lat="35.9581810" lon="-78.6125350">
+    <ele>92.0</ele>
+    <time>2020-02-15T22:03:30Z</time>
+   </trkpt>
+   <trkpt lat="35.9581720" lon="-78.6125400">
+    <ele>92.0</ele>
+    <time>2020-02-15T22:03:32Z</time>
+   </trkpt>
+   <trkpt lat="35.9581600" lon="-78.6125540">
+    <ele>92.0</ele>
+    <time>2020-02-15T22:03:34Z</time>
+   </trkpt>
+   <trkpt lat="35.9581530" lon="-78.6125550">
+    <ele>92.0</ele>
+    <time>2020-02-15T22:03:35Z</time>
+   </trkpt>
+   <trkpt lat="35.9546370" lon="-78.6129830">
+    <ele>81.6</ele>
+    <time>2020-02-15T22:10:46Z</time>
+   </trkpt>
+   <trkpt lat="35.9546400" lon="-78.6129770">
+    <ele>81.6</ele>
+    <time>2020-02-15T22:10:47Z</time>
+   </trkpt>
+   <trkpt lat="35.9546400" lon="-78.6129760">
+    <ele>81.6</ele>
+    <time>2020-02-15T22:10:48Z</time>
+   </trkpt>
+   <trkpt lat="35.9546390" lon="-78.6129760">
+    <ele>81.6</ele>
+    <time>2020-02-15T22:10:49Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

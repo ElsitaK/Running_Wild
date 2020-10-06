@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2020-02-07T22:33:17Z</time>
+ </metadata>
+ <trk>
+  <name>Strava is fuckin up bud</name>
+  <type>9</type>
+  <trkseg>
+   <trkpt lat="35.8977590" lon="-78.6645630">
+    <ele>121.2</ele>
+    <time>2020-02-07T22:33:17Z</time>
+   </trkpt>
+   <trkpt lat="35.8977690" lon="-78.6645630">
+    <ele>121.2</ele>
+    <time>2020-02-07T22:33:18Z</time>
+   </trkpt>
+   <trkpt lat="35.8973290" lon="-78.6596310">
+    <ele>140.6</ele>
+    <time>2020-02-07T22:42:55Z</time>
+   </trkpt>
+   <trkpt lat="35.8973310" lon="-78.6597020">
+    <ele>140.7</ele>
+    <time>2020-02-07T22:42:58Z</time>
+   </trkpt>
+   <trkpt lat="35.8973160" lon="-78.6597660">
+    <ele>140.9</ele>
+    <time>2020-02-07T22:42:59Z</time>
+   </trkpt>
+   <trkpt lat="35.8973040" lon="-78.6598340">
+    <ele>141.0</ele>
+    <time>2020-02-07T22:43:02Z</time>
+   </trkpt>
+   <trkpt lat="35.8972820" lon="-78.6599840">
+    <ele>141.3</ele>
+    <time>2020-02-07T22:43:04Z</time>
+   </trkpt>
+   <trkpt lat="35.8972750" lon="-78.6600440">
+    <ele>141.3</ele>
+    <time>2020-02-07T22:43:07Z</time>
+   </trkpt>
+   <trkpt lat="35.8972740" lon="-78.6600680">
+    <ele>141.4</ele>
+    <time>2020-02-07T22:43:08Z</time>
+   </trkpt>
+   <trkpt lat="35.8972720" lon="-78.6600930">
+    <ele>141.4</ele>
+    <time>2020-02-07T22:43:08Z</time>
+   </trkpt>
+   <trkpt lat="35.8972720" lon="-78.6600930">
+    <ele>141.4</ele>
+    <time>2020-02-07T22:43:09Z</time>
+   </trkpt>
+   <trkpt lat="35.8972720" lon="-78.6600930">
+    <ele>141.4</ele>
+    <time>2020-02-07T22:43:09Z</time>
+   </trkpt>
+   <trkpt lat="35.8972650" lon="-78.6601340">
+    <ele>141.4</ele>
+    <time>2020-02-07T22:43:11Z</time>
+   </trkpt>
+   <trkpt lat="35.8972640" lon="-78.6601670">
+    <ele>141.4</ele>
+    <time>2020-02-07T22:43:12Z</time>
+   </trkpt>
+   <trkpt lat="35.8972670" lon="-78.6602240">
+    <ele>141.4</ele>
+    <time>2020-02-07T22:43:15Z</time>
+   </trkpt>
+   <trkpt lat="35.8972680" lon="-78.6602480">
+    <ele>141.4</ele>
+    <time>2020-02-07T22:43:15Z</time>
+   </trkpt>
+   <trkpt lat="35.8972680" lon="-78.6602480">
+    <ele>141.4</ele>
+    <time>2020-02-07T22:43:16Z</time>
+   </trkpt>
+   <trkpt lat="35.8972680" lon="-78.6602480">
+    <ele>141.4</ele>
+    <time>2020-02-07T22:43:16Z</time>
+   </trkpt>
+   <trkpt lat="35.8972620" lon="-78.6603620">
+    <ele>141.2</ele>
+    <time>2020-02-07T22:43:21Z</time>
+   </trkpt>
+   <trkpt lat="35.8973920" lon="-78.6649280">
+    <ele>121.2</ele>
+    <time>2020-02-07T22:50:56Z</time>
+   </trkpt>
+   <trkpt lat="36.1622830" lon="-86.7738430">
+    <ele>123.1</ele>
+    <time>2020-02-12T18:10:40Z</time>
+   </trkpt>
+   <trkpt lat="36.1619010" lon="-86.7741990">
+    <ele>123.3</ele>
+    <time>2020-02-12T18:27:25Z</time>
+   </trkpt>
+   <trkpt lat="36.1619220" lon="-86.7742140">
+    <ele>123.3</ele>
+    <time>2020-02-12T18:27:32Z</time>
+   </trkpt>
+   <trkpt lat="36.1619230" lon="-86.7742150">
+    <ele>123.3</ele>
+    <time>2020-02-12T18:28:03Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
