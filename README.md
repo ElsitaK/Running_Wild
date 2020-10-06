@@ -22,7 +22,7 @@ Files include several scripts and and sample gpx files.
 - "RunScript.ParseMultipleSubmissions.R": extracts longitude, latitude and datetime from the 'activities' folder containing sample gpx files for further visualization and map creation
 
 # Map Visualization
-The folder "map_of_users" includes html, css and javascript code (using D3.js) to map the locations of each user submitted route. It runs a timer to add a point for each route based on the time the race was run. 
+The folder "map_of_users" includes html, css and javascript code (using D3.js) to map the locations of each user submitted route. It runs a timer to add a point on the map for each route based on the time the race was run. 
 
 # Required Packages
 R packages:
